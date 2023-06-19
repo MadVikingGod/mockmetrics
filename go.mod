@@ -2,7 +2,7 @@ module github.com/MadVikingGod/mockmetrics
 
 require (
 	github.com/prometheus/client_golang v1.11.1
-	go.uber.org/zap v1.7.1
+	go.uber.org/zap v1.24.0
 )
 
 require (
